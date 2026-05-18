@@ -1,0 +1,22 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Light Blue"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Puppy"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Beanie Grey"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Light Bulb Rib"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/939"
+}

@@ -1,0 +1,18 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Mandala 20"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Ship n Bowl"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Light Bulb Rib"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/555"
+}

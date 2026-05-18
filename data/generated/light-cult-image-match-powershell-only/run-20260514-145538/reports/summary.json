@@ -1,0 +1,15 @@
+﻿{
+    "run_root":  "D:\\github\\ron-english-light-cult-0001-1000\\data\\generated\\light-cult-image-match-powershell-only\\run-20260514-145538",
+    "contract":  "0xbe85fbd182af91290be7293438ae67549638189f",
+    "token_start":  1,
+    "token_count_requested":  100,
+    "reference_downloaded":  84,
+    "reference_failures":  16,
+    "local_images_scanned":  100,
+    "high_confidence_matches":  13,
+    "review_matches":  82,
+    "no_match_in_test_set":  5,
+    "local_read_failures":  0,
+    "main_report":  "D:\\github\\ron-english-light-cult-0001-1000\\data\\generated\\light-cult-image-match-powershell-only\\run-20260514-145538\\reports\\light-cult-local-match-report.csv",
+    "metadata_report":  "D:\\github\\ron-english-light-cult-0001-1000\\data\\generated\\light-cult-image-match-powershell-only\\run-20260514-145538\\reports\\light-cult-reference-metadata.csv"
+}

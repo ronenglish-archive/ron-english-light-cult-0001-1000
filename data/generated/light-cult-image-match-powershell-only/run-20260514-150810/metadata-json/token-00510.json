@@ -1,0 +1,18 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Mandala 2"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Ice Cream Face"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Fez - StarSkull"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/510"
+}

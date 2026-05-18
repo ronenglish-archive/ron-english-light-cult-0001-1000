@@ -1,0 +1,18 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Red"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Basic (Light Blue)"
+                       },
+                       {
+                           "trait_type":  "Accessory",
+                           "value":  "Ear Earrings"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/278"
+}

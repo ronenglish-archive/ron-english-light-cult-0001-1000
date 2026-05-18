@@ -1,0 +1,22 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Mandala 9"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "StarSkull Black/Metallic"
+                       },
+                       {
+                           "trait_type":  "Accessory",
+                           "value":  "Goggles"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Light Bulb Rib"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/729"
+}

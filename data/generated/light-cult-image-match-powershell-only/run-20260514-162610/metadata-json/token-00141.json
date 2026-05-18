@@ -1,0 +1,18 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Mandala 13"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Ice Cream Face"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Overalls Brown"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/141"
+}

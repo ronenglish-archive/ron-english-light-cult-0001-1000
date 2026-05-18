@@ -1,0 +1,22 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Pink"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Smiley Face (Light Blue)"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Sombrero"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Tanktop Bulb"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/599"
+}

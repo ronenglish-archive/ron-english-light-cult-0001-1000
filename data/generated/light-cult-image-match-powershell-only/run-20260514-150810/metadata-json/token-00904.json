@@ -1,0 +1,22 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Mandala 17"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Ship n Bowl"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Fez - Heart Cage"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Tanktop Bulb"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/904"
+}

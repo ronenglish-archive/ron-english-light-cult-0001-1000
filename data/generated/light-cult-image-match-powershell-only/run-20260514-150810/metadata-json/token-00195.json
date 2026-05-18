@@ -1,0 +1,26 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Black"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Basic (Yellow)"
+                       },
+                       {
+                           "trait_type":  "Accessory",
+                           "value":  "Eyeball Earrings"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Nurse Hat"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Tanktop Tree"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/195"
+}

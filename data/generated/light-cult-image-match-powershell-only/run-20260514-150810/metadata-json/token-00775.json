@@ -1,0 +1,22 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Pink"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Basic (Red)"
+                       },
+                       {
+                           "trait_type":  "Accessory",
+                           "value":  "Groucho Glasses"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Sombrero"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/775"
+}

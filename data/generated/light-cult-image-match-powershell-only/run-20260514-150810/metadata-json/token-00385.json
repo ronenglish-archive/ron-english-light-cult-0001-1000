@@ -1,0 +1,26 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Rainbow"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Smiley Face (Pink)"
+                       },
+                       {
+                           "trait_type":  "Accessory",
+                           "value":  "Fairy Wings"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Beanie Grey"
+                       },
+                       {
+                           "trait_type":  "Body",
+                           "value":  "Tanktop Bulb"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/385"
+}

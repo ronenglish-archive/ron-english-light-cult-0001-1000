@@ -1,0 +1,22 @@
+﻿{
+    "attributes":  [
+                       {
+                           "trait_type":  "Background",
+                           "value":  "Mandala 1"
+                       },
+                       {
+                           "trait_type":  "Face",
+                           "value":  "Brain"
+                       },
+                       {
+                           "trait_type":  "Accessory",
+                           "value":  "Winged Sunglasses"
+                       },
+                       {
+                           "trait_type":  "Hat",
+                           "value":  "Cowboy Hat"
+                       }
+                   ],
+    "external_url":  "https://www.lightcultcryptoclub.com",
+    "image":  "ipfs://QmWNWmgdMtxpyofvTSVRFjzTugo71Q6WDy3Wq62pCeawUz/481"
+}
