@@ -1,0 +1,10 @@
+﻿
+# Generated audit/report files - not part of public site
+data/generated/
+**/data/generated/
+_reports/
+**/_reports/
+reports/
+**/reports/
+*.tmp
+*.log
