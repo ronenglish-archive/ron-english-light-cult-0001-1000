@@ -312,6 +312,31 @@ section[aria-label="Token range index"] .section-title {
 }
 /* LCCC INDEX NORMALIZATION - END */
 </style>
+<!-- LCCC-CENTER-INCOMPLETE-TOKEN-RANGE-ROWS-V1-START -->
+<style id="lccc-center-incomplete-token-range-rows-v1">
+/* Flex wrapping centers a partial final row; CSS grid track centering alone does not. */
+section[aria-label="Token range index"] .range-grid {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+  align-items: stretch !important;
+  gap: 18px !important;
+}
+section[aria-label="Token range index"] .range-grid > .range-card {
+  flex: 0 1 205px !important;
+  width: min(205px, 100%) !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  box-sizing: border-box !important;
+}
+@media (max-width: 720px) {
+  section[aria-label="Token range index"] .range-grid > .range-card { flex-basis: 165px !important; width: min(165px, 100%) !important; }
+}
+@media (max-width: 380px) {
+  section[aria-label="Token range index"] .range-grid > .range-card { flex-basis: min(100%, 260px) !important; width: min(100%, 260px) !important; }
+}
+</style>
+<!-- LCCC-CENTER-INCOMPLETE-TOKEN-RANGE-ROWS-V1-END -->
 </head>
 
 <body>
