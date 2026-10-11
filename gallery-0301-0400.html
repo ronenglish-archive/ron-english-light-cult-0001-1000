@@ -289,12 +289,17 @@ section[aria-label*="Light Cult Crypto Club tokens" i] {
 </style>
 <!-- LCCC-GALLERY-FINAL-ROW-CENTER-V1 -->
 <style id="lccc-gallery-final-row-center-v1">
-/* Fixed-width flex cards keep incomplete final token rows centered. */
-.image-grid, .token-grid {
+/* Match or exceed the specificity of the earlier !important grid declaration. */
+section.image-grid[aria-label*="Light Cult Crypto Club tokens" i],
+section.token-grid[aria-label*="Light Cult Crypto Club tokens" i],
+section.image-grid,
+section.token-grid,
+.image-grid,
+.token-grid {
   display: flex !important;
   flex-wrap: wrap !important;
   justify-content: center !important;
-  align-content: start !important;
+  align-content: flex-start !important;
   align-items: stretch !important;
   column-gap: 18px !important;
   row-gap: 18px !important;
@@ -313,7 +318,11 @@ section[aria-label*="Light Cult Crypto Club tokens" i] {
   margin: 0 !important;
 }
 @media (max-width: 720px) {
-  .image-grid, .token-grid {column-gap: 14px !important; row-gap: 14px !important;}
+  section.image-grid[aria-label*="Light Cult Crypto Club tokens" i],
+  section.token-grid[aria-label*="Light Cult Crypto Club tokens" i],
+  section.image-grid, section.token-grid, .image-grid, .token-grid {
+    column-gap: 14px !important; row-gap: 14px !important;
+  }
   .image-grid > .image-card, .image-grid > .token-card,
   .token-grid > .image-card, .token-grid > .token-card,
   .token-grid > .lccc-card, .image-grid > .lccc-card {
@@ -325,8 +334,9 @@ section[aria-label*="Light Cult Crypto Club tokens" i] {
   .image-grid > .image-card, .image-grid > .token-card,
   .token-grid > .image-card, .token-grid > .token-card,
   .token-grid > .lccc-card, .image-grid > .lccc-card {
-    flex-basis: min(100%, 175px) !important;
-    width: min(100%, 175px) !important;
+    flex-basis: 100% !important;
+    width: 100% !important;
+    max-width: 175px !important;
   }
 }
 </style>
